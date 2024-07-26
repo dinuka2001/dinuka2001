@@ -4,3 +4,4 @@
 
 ![Dinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinuka2001&show_icons=true&theme=radical)
 
+<center> <img src="https://komarev.com/ghpvc/?username=sachithdh&&style=flat-square" align="center" /> </center>
