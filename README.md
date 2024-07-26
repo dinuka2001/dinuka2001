@@ -1,7 +1,7 @@
 # Hi! I'm Dinuka.
 
 <div style="text-align: center;">
-  <img src="https://github.com/dinuka2001/dinuka2001/blob/main/src/out2.gif" alt="Example GIF" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/dinuka2001/dinuka2001/blob/main/src/out2.gif" alt="Example GIF" style="max-width: 100%; height: auto; text-align: center">
 </div>
 
 [![Dinuka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dinuka2001&theme=react-dark)](https://github.com/sachithdh/github-readme-activity-graph)
