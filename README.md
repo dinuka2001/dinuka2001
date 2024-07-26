@@ -6,5 +6,5 @@
 
 <center> <img src="https://komarev.com/ghpvc/?username=dinuka2001&&style=flat-square" align="center" /> </center>
 
-[![An image of @sacheex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sacheex)](https://holopin.io/@sacheex)
+[![An image of @dinuka2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dinuka2001)](https://holopin.io/@dinuka2001)
 
