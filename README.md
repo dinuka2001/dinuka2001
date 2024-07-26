@@ -9,3 +9,4 @@
 [![An image of @dinuka2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dinuka2001)](https://holopin.io/@dinuka2001)
 
 
+![Example GIF](https://github.com/dinuka2001/dinuka2001/blob/main/src/out2.gif)
