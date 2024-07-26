@@ -5,3 +5,6 @@
 ![Dinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinuka2001&show_icons=true&theme=radical)
 
 <center> <img src="https://komarev.com/ghpvc/?username=dinuka2001&&style=flat-square" align="center" /> </center>
+
+[![An image of @sacheex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sacheex)](https://holopin.io/@sacheex)
+
