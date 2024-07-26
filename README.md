@@ -1,5 +1,8 @@
 ## Hi there 👋
-![Profile views](https://komarev.com/ghpvc/?username=dinuka2001)
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 <!--
 **dinuka2001/dinuka2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
