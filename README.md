@@ -9,7 +9,9 @@
 ![Dinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinuka2001&show_icons=true&theme=radical)
 
 <center> <img src="https://komarev.com/ghpvc/?username=dinuka2001&&style=flat-square" align="center" /> </center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinuka2001&layout=compact&theme=transparent)
 
-[![An image of @dinuka2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dinuka2001)](https://holopin.io/@dinuka2001)
+
+<!-- [![An image of @dinuka2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dinuka2001)](https://holopin.io/@dinuka2001) -->
 
 
