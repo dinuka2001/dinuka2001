@@ -3,6 +3,14 @@
 <!-- <div style="text-align: center;">
   <img src="src/anime-moon-landscape.jpg" alt="Example GIF" style="max-width: 100%; height: auto; text-align: center">
 </div> -->
+```java
+object Dinuka{
+  Education: ["undergraduate of Computer Science", "at" , "Universicy Of Colombo Schoole Of Computing"],
+  Skills: [ C/C++, Python, Scala, SQL, HTML, CSS, JavaScript, PHP, MERN , bash],
+  beginner: ["Web development", MERN],
+  editor: ["VS Code", "Vim"]
+}
+```
 
 [![Dinuka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dinuka2001&theme=react-dark)](https://github.com/sachithdh/github-readme-activity-graph)
 
