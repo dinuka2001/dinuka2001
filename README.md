@@ -3,7 +3,7 @@
 <!-- <div style="text-align: center;">
   <img src="src/anime-moon-landscape.jpg" alt="Example GIF" style="max-width: 100%; height: auto; text-align: center">
 </div> -->
-```java
+```javascript
 object Dinuka{
   Education: ["undergraduate of Computer Science", "at" , "Universicy Of Colombo Schoole Of Computing"],
   Skills: [ C/C++, Python, Scala, SQL, HTML, CSS, JavaScript, PHP, MERN , bash],
