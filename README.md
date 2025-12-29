@@ -8,7 +8,7 @@ Object Dinuka{
   Education: ["undergraduate of Computer Science", "at" , "Universicy Of Colombo Schoole Of Computing"],
   Skills: [ C/C++, Python, Scala, SQL, HTML, CSS, JavaScript, PHP, MERN , bash],
   beginner: ["Web development", MERN],
-  editor: ["VS Code", "Vim"]
+  editor: ["VS Code", "IntelliJ, "Vim"]
 }
 ```
 
